@@ -7,4 +7,4 @@ Licensed under [Creative Commons BY
 
 Original artworks license and attribution detailed in the following.
 
-* [Rust Black Logo](http://rust-lang.org/logos/rust-logo-256x256-blk.png) (CC-BY)
+* [Rust Black Logo](http://rust-lang.org/logos/rust-logo-blk.svg) (CC-BY)
